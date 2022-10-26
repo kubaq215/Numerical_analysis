@@ -1,0 +1,5 @@
+Aby skompilować program należy wpisać "make num1",
+co da nam wersję z podwójną precyzją albo "make num1f",
+aby dostać wersję z pojedynczą.
+
+Aby uruchomić programy należy wpisać "make run1" lub "make run2".
